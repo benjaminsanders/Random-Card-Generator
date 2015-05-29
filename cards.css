@@ -11,16 +11,8 @@ div {
     margin: auto;
 }
 
-.center {
-    margin-left: auto;
-    margin-right: auto;
-	margin-top: auto;
-	margin-bottom: auto;
-	vertical-align: central;
-}
-
 .card {
-    background-image: url(../img/cards.png);
+    background-image: url(cards.png);
     background-repeat: no-repeat;
     display: block;
 }
